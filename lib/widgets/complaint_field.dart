@@ -13,7 +13,6 @@ class ComplaintField extends StatelessWidget {
         child: Card(
           elevation: 0,
           child: TextFormField(
-
             style: GoogleFonts.almarai(fontSize: 20),
             keyboardType: TextInputType.text,
             cursorColor: KmainColor,

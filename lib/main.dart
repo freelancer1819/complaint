@@ -1,4 +1,4 @@
-import 'package:complaints/screens/signin_screen.dart';
+import 'package:complaints/screens/auth/signin_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 main()=>runApp(MyApp());

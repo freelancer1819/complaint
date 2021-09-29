@@ -1,6 +1,6 @@
 import 'package:complaints/consts/const_colors.dart';
 import 'package:complaints/modules/main_layout.dart';
-import 'package:complaints/screens/sgin_up_screen.dart';
+import 'sgin_up_screen.dart';
 import 'package:complaints/shared/text_sheard.dart';
 import 'package:complaints/widgets/logo_widget.dart';
 import 'package:complaints/widgets/my_button.dart';
